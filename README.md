@@ -1,5 +1,5 @@
 # MyAutoData #
-Contains data scrapped by [**MyAutoScrapper**](https://github.com/Gogotchuri/MyAutoScrapper) (Written on go)
+Contains data scrapped by [**MyAutoScrapper**](https://github.com/Gogotchuri/MyAutoScrapper) (Written in go)
 ## Purpose #
 Since this data contains real car deals, placed by real humans with pictures, 
 It can be used for real world **Machine Learning(*ML*)** or **Machine Vision**.
