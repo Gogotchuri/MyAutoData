@@ -25,3 +25,6 @@ This repository contains *data.csv* file, which has 100 000 car deal detail. Eac
 - *LeatherInterior*: A boolean value, true if car has a leather interior.
 - *Price*: Price of the car in **USD**. If ommited, meants price was set as negotiable. 
 - *Clearance*: A boolean value identifying, whether customs has been cleared of not. 
+
+### Important Note! (Disclaimer) ###
+None of the fields (Except **ID**) are guaranteed to be filled, or filled with correct information. Since, people sometimes don't enter correct information, or hide some information for reasons. But for most of the entries, most of the fields are supposed to be filled with correct information.
