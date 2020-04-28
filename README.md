@@ -1,10 +1,11 @@
 # MyAutoData #
+[Actual dataset Location on Kaggle](https://www.kaggle.com/gogotchuri/myautogecardetails)
 Contains data scrapped by [**MyAutoScrapper**](https://github.com/Gogotchuri/MyAutoScrapper) (Written in go)
 ## Purpose #
-Since this data contains real car deals, placed by real humans with pictures, 
+Since this kaggle dataset real car deals, placed by real humans with pictures, 
 It can be used for real world **Machine Learning(*ML*)** or **Machine Vision**.
 ## Data structure ##
-This repository contains *data.csv* file, which has 100 000 car deal detail. Each row representing each deal.
+This dataset contains *data.csv* file, which has 100 000 car deal detail. Each row representing each deal.
 *data.csv* has 18 columns:
 - *ID*: Represents unique identifier for each entry, also for each id, there is a sub-folder in images respectively,
   which contains images for the given deal. *ID* is an integer starting from 0.
